@@ -1,0 +1,9 @@
+l=[1,2,3,4,5]
+l.append(6)
+print(l)
+l.reverse()
+print(l)
+l.pop(3)
+print(l)
+l.remove(4)
+print(l)
